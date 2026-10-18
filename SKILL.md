@@ -58,7 +58,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol Step 1: 问题解构
 
@@ -298,7 +298,7 @@ description: >-
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 语言特征
 
